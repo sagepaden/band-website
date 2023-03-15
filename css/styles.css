@@ -42,6 +42,7 @@ img {
 }
 
 .box3 {
+  float: right;
   width: 70%;
   padding: 25px;
   border: dashed hotpink;
