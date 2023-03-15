@@ -4,7 +4,19 @@
   background-color: peachpuff;
 }
 
-.img {
+img {
   float: right;
   width: 20%;
+}
+
+#img1 {
+  float: left;
+}
+
+#img2 {
+  float:center;
+}
+
+#img3 {
+  float: right;
 }
