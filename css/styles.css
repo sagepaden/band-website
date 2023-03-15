@@ -1,0 +1,10 @@
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: peachpuff;
+}
+
+.img {
+  float: right;
+  width: 20%;
+}
